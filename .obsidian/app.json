@@ -5,5 +5,8 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "/附件"
+  "attachmentFolderPath": "/附件",
+  "userIgnoreFilters": [
+    "crates/"
+  ]
 }
