@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/量化/金融/基础概念/投资理论/价值投资.md",
+                "file": "src/量化/金融/基础概念/经济指标与概念/国内生产总值(GDP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "价值投资"
+              "title": "国内生产总值(GDP)"
             }
           },
           {
@@ -28,15 +28,14 @@
               "type": "markdown",
               "state": {
                 "file": "src/chaos/编程规范文档.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "编程规范文档"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/量化/金融/基础概念/金融工具/股权.md",
+                "file": "src/量化/金融/基础概念/经济指标与概念/国内生产总值(GDP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "股权 的大纲"
+              "title": "国内生产总值(GDP) 的大纲"
             }
           }
         ],
@@ -182,48 +181,47 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26425572599dba90",
+  "active": "2cfb0b3a0040db08",
   "lastOpenFiles": [
-    "src/量化/金融/基础概念/投资理论/价值投资.md",
-    "src/量化/金融/术语.md",
-    "src/量化/金融/基础概念/交易机制/首次公开募股(IPO).md",
-    "src/量化/金融/基础概念/投资理论",
-    "src/量化/金融/基础概念/交易机制/卖空.md",
-    "src/量化/金融/基础概念/交易机制/交易商(市商).md",
-    "src/量化/金融/基础概念/交易机制/保证金交易.md",
-    "src/量化/金融/基础概念/交易机制/T+1.md",
-    "src/量化/金融/基础概念/交易机制/保证金.md",
-    "src/chaos/编程规范文档.md",
-    "src/量化/金融/基础概念/金融工具/标的资产.md",
-    "src/量化/金融/基础概念/未命名.md",
-    "src/量化/金融/基础概念/交易机制",
-    "src/量化/金融/基础概念/金融工具/衍生品.md",
-    "src/量化/金融/基础概念/金融工具/证券.md",
-    "src/量化/金融/基础概念/金融工具/可转换债券.md",
-    "src/量化/金融/基础概念/金融工具/国债.md",
-    "src/量化/金融/基础概念/金融工具/债券.md",
-    "src/量化/金融/基础概念/金融工具/VIX期权.md",
-    "src/量化/金融/基础概念/金融工具/卖出期权.md",
-    "src/量化/金融/基础概念/金融工具/期货.md",
-    "src/量化/金融/基础概念/金融工具/期权.md",
-    "src/量化/金融/基础概念/金融工具/二元期权.md",
-    "src/量化/金融/基础概念/交割.md",
-    "src/量化/金融/基础概念/仓位(头寸).md",
-    "src/量化/金融/基础概念/投资者.md",
-    "src/量化/金融/基础概念/金融工具/股权.md",
-    "src/量化/金融/基础概念/库存股.md",
-    "src/量化/金融/基础概念/金融工具",
-    "src/量化/金融/基础概念/市场",
-    "src/量化/金融",
-    "src/量化/金融/基础概念",
-    "src/chaos/未命名",
-    "crates/math/src/统计学/chaos",
-    "crates/math/src/统计学/未命名",
-    "crates/math/src/统计学",
+    "crates/math/src/概率论与数理统计/chaos/数据的种类.md",
+    "crates/math/src/概率论与数理统计/chaos/未命名.md",
+    "crates/math/src/概率论与数理统计/chaos",
+    "crates/math/src/概率论与数理统计/choas",
+    "crates/math/src/概率论与数理统计/未命名",
+    "crates/math/src/概率论与数理统计/数理统计/假设检验/T检验.md",
+    "crates/math/src/概率论与数理统计/数理统计/假设检验/未命名.md",
+    "crates/math/src/概率论与数理统计/数理统计/假设检验/Z检验.md",
+    "crates/math/src/概率论与数理统计/数理统计/假设检验/Z值.md",
+    "crates/math/src/概率论与数理统计/数理统计/假设检验/备择假设.md",
+    "crates/math/src/概率论与数理统计/数理统计/假设检验/零假设.md",
+    "crates/math/src/概率论与数理统计/数理统计/假设检验/P值.md",
+    "crates/math/src/概率论与数理统计/统计检验/P值.md",
+    "crates/math/src/概率论与数理统计/统计检验/未命名.md",
+    "crates/math/src/概率论与数理统计/回归分析",
+    "crates/math/src/概率论与数理统计/统计检验",
+    "crates/math/src/几何学/-图形/立体图形/圆锥.md",
+    "crates/math/src/几何学/-图形/直线和曲线/法线方程.md",
+    "crates/math/src/几何学/-图形/直线和曲线/法线(法向量).md",
+    "crates/math/src/几何学/-图形/直线和曲线/摆线.md",
+    "crates/math/src/几何学/-图形/直线和曲线/割线.md",
+    "crates/math/src/几何学/-图形/直线和曲线/切线.md",
+    "crates/math/src/几何学/-图形/曲面/锥面.md",
+    "crates/math/src/几何学/-图形/平面图形/椭圆.md",
+    "crates/math/src/几何学/-图形/平面图形/扇形.md",
+    "crates/math/src/几何学/-图形/平面图形/圆.md",
+    "crates/math/src/几何学/-图形/平面图形/三角形.md",
+    "crates/math/src/几何学/-术语/距离.md",
+    "crates/math/src/几何学/-图形/立体图形",
+    "crates/math/src/几何学/-图形/直线和曲线",
+    "crates/math/src/几何学/-图形/曲面",
+    "crates/math/src/几何学/-图形/平面图形",
+    "crates/math/src/几何学/-术语",
+    "crates/math/src/统计学/几何学/-图形/立体图形/圆锥.md",
+    "crates/math/src/统计学/几何学/-图形/直线和曲线/法线方程.md",
+    "crates/math/src/统计学/几何学/-图形/直线和曲线/法线(法向量).md",
     "crates/math/self/线性代数/题目/困惑.canvas",
     "crates/math/附件/无标题.jpg",
     "crates/math/附件/屏幕截图_20240519_165229.png",
