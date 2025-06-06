@@ -22,7 +22,6 @@
       "crates/math/Idea-",
       "crates/math/self",
       "crates/math/src",
-      "crates/math/templates",
       "crates/math/笔记规范_.md",
       "crates/math/标签系统.md",
       "crates/math/历史遗留问题与内容污染问题.md",
@@ -43,6 +42,7 @@
       "crates/math/笔记规范-/插件使用规范-/Latex Suite.md"
     ],
     "crates/math/附件": [
+      "crates/math/附件/Pasted image 20250604094504.png",
       "crates/math/附件/0cb6803f3f0c402b9219c3499f3764ee.jpg",
       "crates/math/附件/0cb6803f3f0c402b9219c3499f3764ee 1.jpg",
       "crates/math/附件/1.svg",
@@ -654,7 +654,6 @@
       "crates/math/src/离散数学",
       "crates/math/src/数理逻辑",
       "crates/math/src/数学公理系统",
-      "crates/math/src/统计学",
       "crates/math/src/图论",
       "crates/math/src/微积分",
       "crates/math/src/线性代数",
@@ -776,6 +775,8 @@
       "crates/math/src/符号&记号/consensus_元素&集合.md"
     ],
     "crates/math/src/概率论与数理统计": [
+      "crates/math/src/概率论与数理统计/回归分析",
+      "crates/math/src/概率论与数理统计/chaos",
       "crates/math/src/概率论与数理统计/-分布类型",
       "crates/math/src/概率论与数理统计/大数定律与中心极限定理",
       "crates/math/src/概率论与数理统计/多维随机变量及其分布",
@@ -820,6 +821,7 @@
       "crates/math/src/概率论与数理统计/多维随机变量及其分布/连续型/连续型概率密度.md",
       "crates/math/src/概率论与数理统计/多维随机变量及其分布/连续型/连续型条件概率密度.md"
     ],
+    "crates/math/src/概率论与数理统计/回归分析": [],
     "crates/math/src/概率论与数理统计/数理统计": [
       "crates/math/src/概率论与数理统计/数理统计/参数估计",
       "crates/math/src/概率论与数理统计/数理统计/假设检验",
@@ -836,6 +838,13 @@
       "crates/math/src/概率论与数理统计/数理统计/参数估计/正态总体均值的置信区间(置信水平为1-a).md"
     ],
     "crates/math/src/概率论与数理统计/数理统计/假设检验": [
+      "crates/math/src/概率论与数理统计/数理统计/假设检验/显著性差异.md",
+      "crates/math/src/概率论与数理统计/数理统计/假设检验/备择假设.md",
+      "crates/math/src/概率论与数理统计/数理统计/假设检验/零假设.md",
+      "crates/math/src/概率论与数理统计/数理统计/假设检验/P值.md",
+      "crates/math/src/概率论与数理统计/数理统计/假设检验/T检验.md",
+      "crates/math/src/概率论与数理统计/数理统计/假设检验/Z检验.md",
+      "crates/math/src/概率论与数理统计/数理统计/假设检验/Z值.md",
       "crates/math/src/概率论与数理统计/数理统计/假设检验/假设检验.md",
       "crates/math/src/概率论与数理统计/数理统计/假设检验/两类错误.md",
       "crates/math/src/概率论与数理统计/数理统计/假设检验/正态总体下的假设检验.md"
@@ -883,6 +892,14 @@
     ],
     "crates/math/src/概率论与数理统计/一维随机变量及其分布/连续型": [
       "crates/math/src/概率论与数理统计/一维随机变量及其分布/连续型/连续型随机变量及其概率密度.md"
+    ],
+    "crates/math/src/概率论与数理统计/chaos": [
+      "crates/math/src/概率论与数理统计/chaos/峰度.md",
+      "crates/math/src/概率论与数理统计/chaos/描述统计学.md",
+      "crates/math/src/概率论与数理统计/chaos/偏度.md",
+      "crates/math/src/概率论与数理统计/chaos/中位数.md",
+      "crates/math/src/概率论与数理统计/chaos/众数.md",
+      "crates/math/src/概率论与数理统计/chaos/数据的种类.md"
     ],
     "crates/math/src/集合论": [
       "crates/math/src/集合论/-术语",
@@ -1029,10 +1046,6 @@
     "crates/math/src/数学公理系统": [
       "crates/math/src/数学公理系统/负负得正.md"
     ],
-    "crates/math/src/统计学": [
-      "crates/math/src/统计学/chaos"
-    ],
-    "crates/math/src/统计学/chaos": [],
     "crates/math/src/图论": [],
     "crates/math/src/微积分": [
       "crates/math/src/微积分/-结论",
@@ -1645,7 +1658,6 @@
       "crates/math/src/运算法则/指数运算法则.md"
     ],
     "crates/math/src/组合数学": [],
-    "crates/math/templates": [],
     "src": [
       "src/编程语言",
       "src/编译原理",
@@ -1683,20 +1695,16 @@
     "src/编程语言/Rust/语言学习": [
       "src/编程语言/Rust/语言学习/设计模式",
       "src/编程语言/Rust/语言学习/属性",
-      "src/编程语言/Rust/语言学习/所有指针",
       "src/编程语言/Rust/语言学习/优化大法",
-      "src/编程语言/Rust/语言学习/choas",
       "src/编程语言/Rust/语言学习/feature",
-      "src/编程语言/Rust/语言学习/std宝典"
+      "src/编程语言/Rust/语言学习/std宝典",
+      "src/编程语言/Rust/语言学习/choas"
     ],
     "src/编程语言/Rust/语言学习/设计模式": [
       "src/编程语言/Rust/语言学习/设计模式/choas.md"
     ],
     "src/编程语言/Rust/语言学习/属性": [
       "src/编程语言/Rust/语言学习/属性/choas.md"
-    ],
-    "src/编程语言/Rust/语言学习/所有指针": [
-      "src/编程语言/Rust/语言学习/所有指针/Box.md"
     ],
     "src/编程语言/Rust/语言学习/优化大法": [],
     "src/编程语言/Rust/语言学习/choas": [
@@ -1711,21 +1719,43 @@
       "src/编程语言/Rust/语言学习/choas/所有权.md",
       "src/编程语言/Rust/语言学习/choas/学习资源.md",
       "src/编程语言/Rust/语言学习/choas/async.md",
-      "src/编程语言/Rust/语言学习/choas/Drop.md",
       "src/编程语言/Rust/语言学习/choas/FFI.md",
       "src/编程语言/Rust/语言学习/choas/Fn, FnMut and FnOnce.md",
       "src/编程语言/Rust/语言学习/choas/Pin,UnPin.md",
-      "src/编程语言/Rust/语言学习/choas/Sized and ?Sized.md",
       "src/编程语言/Rust/语言学习/choas/trait.md"
     ],
     "src/编程语言/Rust/语言学习/feature": [
       "src/编程语言/Rust/语言学习/feature/choas.md"
     ],
     "src/编程语言/Rust/语言学习/std宝典": [
+      "src/编程语言/Rust/语言学习/std宝典/宏 table.md",
+      "src/编程语言/Rust/语言学习/std宝典/Trait table.md",
+      "src/编程语言/Rust/语言学习/std宝典/指针 table.md",
+      "src/编程语言/Rust/语言学习/std宝典/std",
+      "src/编程语言/Rust/语言学习/std宝典/指针",
       "src/编程语言/Rust/语言学习/std宝典/Trait"
     ],
+    "src/编程语言/Rust/语言学习/std宝典/指针": [
+      "src/编程语言/Rust/语言学习/std宝典/指针/Arc & Rc.md"
+    ],
+    "src/编程语言/Rust/语言学习/std宝典/std": [
+      "src/编程语言/Rust/语言学习/std宝典/std/panic.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/ops.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/num.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/mem.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/maker.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/iter.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/hint.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/future.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/fmt.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/boxed.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/borrow.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/cell.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/any.md"
+    ],
     "src/编程语言/Rust/语言学习/std宝典/Trait": [
-      "src/编程语言/Rust/语言学习/std宝典/Trait/Copy.md",
+      "src/编程语言/Rust/语言学习/std宝典/Trait/Sized and ?Sized.md",
+      "src/编程语言/Rust/语言学习/std宝典/Trait/Drop.md",
       "src/编程语言/Rust/语言学习/std宝典/Trait/Deref.md",
       "src/编程语言/Rust/语言学习/std宝典/Trait/Index.md",
       "src/编程语言/Rust/语言学习/std宝典/Trait/Range.md"

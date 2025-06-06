@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb544727ad6a01ab",
+        "id": "8b4cfa6358ea639f",
         "type": "tabs",
         "children": [
           {
-            "id": "2cfb0b3a0040db08",
+            "id": "69ffa8a2fab425b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/量化/金融/基础概念/经济指标与概念/国内生产总值(GDP).md",
+                "file": "src/编程语言/Rust/语言学习/std宝典/std/panic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "国内生产总值(GDP)"
-            }
-          },
-          {
-            "id": "26425572599dba90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/chaos/编程规范文档.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "编程规范文档"
+              "title": "panic"
             }
           }
         ]
@@ -184,44 +170,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cfb0b3a0040db08",
+  "active": "69ffa8a2fab425b6",
   "lastOpenFiles": [
-    "crates/math/src/概率论与数理统计/chaos/数据的种类.md",
-    "crates/math/src/概率论与数理统计/chaos/未命名.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/ops.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/panic.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/num.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/mem.md",
+    "src/编程语言/Rust/语言学习/std宝典/Trait/Sized and ?Sized.md",
+    "src/编程语言/Rust/语言学习/choas/trait.md",
+    "src/编程语言/Rust/语言学习/choas/Pin,UnPin.md",
+    "src/编程语言/Rust/语言学习/std宝典/Trait/Drop.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/maker.md",
+    "src/编程语言/Rust/语言学习/std宝典/Trait/Copy.md",
+    "src/编程语言/Rust/语言学习/std宝典/Trait/Sync & Send.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/hint.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/iter.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/future.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/fmt.md",
+    "src/编程语言/Rust/语言学习/属性/choas.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/error.md",
+    "src/编程语言/Rust/语言学习/std宝典/指针 table.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/error",
+    "src/编程语言/Rust/语言学习/std宝典/宏 table.md",
+    "src/编程语言/Rust/语言学习/std宝典/Trait table.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/any.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/borrow.md",
+    "src/编程语言/Rust/语言学习/std宝典/指针/Cow.md",
+    "src/编程语言/Rust/语言学习/std宝典/std",
+    "src/编程语言/Rust/语言学习/std宝典/std/cell.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/boxed.md",
+    "src/编程语言/Rust/语言学习/std宝典/Trait/Range.md",
+    "src/编程语言/Rust/语言学习/std宝典/Trait/borrow",
+    "src/编程语言/Rust/语言学习/std宝典/Trait/derive",
+    "src/编程语言/Rust/语言学习/std宝典/宏",
+    "crates/math/附件/Pasted image 20250604094504.png",
     "crates/math/src/概率论与数理统计/chaos",
     "crates/math/src/概率论与数理统计/choas",
     "crates/math/src/概率论与数理统计/未命名",
-    "crates/math/src/概率论与数理统计/数理统计/假设检验/T检验.md",
-    "crates/math/src/概率论与数理统计/数理统计/假设检验/未命名.md",
-    "crates/math/src/概率论与数理统计/数理统计/假设检验/Z检验.md",
-    "crates/math/src/概率论与数理统计/数理统计/假设检验/Z值.md",
-    "crates/math/src/概率论与数理统计/数理统计/假设检验/备择假设.md",
-    "crates/math/src/概率论与数理统计/数理统计/假设检验/零假设.md",
-    "crates/math/src/概率论与数理统计/数理统计/假设检验/P值.md",
-    "crates/math/src/概率论与数理统计/统计检验/P值.md",
-    "crates/math/src/概率论与数理统计/统计检验/未命名.md",
     "crates/math/src/概率论与数理统计/回归分析",
     "crates/math/src/概率论与数理统计/统计检验",
-    "crates/math/src/几何学/-图形/立体图形/圆锥.md",
-    "crates/math/src/几何学/-图形/直线和曲线/法线方程.md",
-    "crates/math/src/几何学/-图形/直线和曲线/法线(法向量).md",
-    "crates/math/src/几何学/-图形/直线和曲线/摆线.md",
-    "crates/math/src/几何学/-图形/直线和曲线/割线.md",
-    "crates/math/src/几何学/-图形/直线和曲线/切线.md",
-    "crates/math/src/几何学/-图形/曲面/锥面.md",
-    "crates/math/src/几何学/-图形/平面图形/椭圆.md",
-    "crates/math/src/几何学/-图形/平面图形/扇形.md",
-    "crates/math/src/几何学/-图形/平面图形/圆.md",
-    "crates/math/src/几何学/-图形/平面图形/三角形.md",
-    "crates/math/src/几何学/-术语/距离.md",
-    "crates/math/src/几何学/-图形/立体图形",
-    "crates/math/src/几何学/-图形/直线和曲线",
-    "crates/math/src/几何学/-图形/曲面",
-    "crates/math/src/几何学/-图形/平面图形",
-    "crates/math/src/几何学/-术语",
-    "crates/math/src/统计学/几何学/-图形/立体图形/圆锥.md",
-    "crates/math/src/统计学/几何学/-图形/直线和曲线/法线方程.md",
-    "crates/math/src/统计学/几何学/-图形/直线和曲线/法线(法向量).md",
     "crates/math/self/线性代数/题目/困惑.canvas",
     "crates/math/附件/无标题.jpg",
     "crates/math/附件/屏幕截图_20240519_165229.png",
@@ -232,7 +219,6 @@
     "crates/math/附件/屏幕截图_20240518_181254.png",
     "crates/math/附件/屏幕截图_20240518_163830.png",
     "crates/math/附件/屏幕截图_20240518_163811.png",
-    "crates/math/附件/屏幕截图_20240511_161448.png",
     "math/self/线性代数/题目/困惑.canvas",
     "abc/math/self/线性代数/题目/困惑.canvas"
   ]
