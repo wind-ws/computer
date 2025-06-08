@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b4cfa6358ea639f",
+        "id": "06f1345b894052cf",
         "type": "tabs",
         "children": [
           {
-            "id": "69ffa8a2fab425b6",
+            "id": "4d374565d1b4e6fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/编程语言/Rust/语言学习/std宝典/std/panic.md",
+                "file": "src/编程语言/Rust/语言学习/设计/设计模式/创建型/建造模式(生成器模式).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "panic"
+              "title": "建造模式(生成器模式)"
             }
           }
         ]
@@ -170,10 +170,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69ffa8a2fab425b6",
+  "active": "4d374565d1b4e6fa",
   "lastOpenFiles": [
-    "src/编程语言/Rust/语言学习/std宝典/std/ops.md",
+    "src/编程语言/Rust/语言学习/设计/设计模式/行为型/命令模式.md",
+    "src/编程语言/Rust/语言学习/设计/设计模式/创建型/建造模式(生成器模式).md",
+    "src/编程语言/Rust/语言学习/设计/设计模式/mod.md",
+    "src/编程语言/Rust/语言学习/属性/choas.md",
+    "src/编程语言/Rust/语言学习/设计/架构模式/ECS.md",
+    "src/编程语言/Rust/语言学习/设计/架构模式/mod.md",
+    "src/编程语言/Rust/语言学习/设计/choas/choas.md",
+    "src/编程语言/Rust/语言学习/设计/设计模式",
+    "src/编程语言/Rust/语言学习/设计/设计模式/行为型",
+    "src/编程语言/Rust/语言学习/设计/设计模式/结构型",
+    "src/编程语言/Rust/语言学习/设计模式/未命名.md",
+    "src/编程语言/Rust/语言学习/设计/设计模式/创建型",
+    "src/编程语言/Rust/语言学习/设计/choas",
+    "src/编程语言/Rust/语言学习/设计/架构模式",
     "src/编程语言/Rust/语言学习/std宝典/std/panic.md",
+    "src/编程语言/Rust/语言学习/设计",
+    "src/编程语言/Rust/语言学习/std宝典/std/ops.md",
     "src/编程语言/Rust/语言学习/std宝典/std/num.md",
     "src/编程语言/Rust/语言学习/std宝典/std/mem.md",
     "src/编程语言/Rust/语言学习/std宝典/Trait/Sized and ?Sized.md",
@@ -187,28 +202,13 @@
     "src/编程语言/Rust/语言学习/std宝典/std/iter.md",
     "src/编程语言/Rust/语言学习/std宝典/std/future.md",
     "src/编程语言/Rust/语言学习/std宝典/std/fmt.md",
-    "src/编程语言/Rust/语言学习/属性/choas.md",
     "src/编程语言/Rust/语言学习/std宝典/std/error.md",
     "src/编程语言/Rust/语言学习/std宝典/指针 table.md",
     "src/编程语言/Rust/语言学习/std宝典/std/error",
     "src/编程语言/Rust/语言学习/std宝典/宏 table.md",
-    "src/编程语言/Rust/语言学习/std宝典/Trait table.md",
-    "src/编程语言/Rust/语言学习/std宝典/std/any.md",
-    "src/编程语言/Rust/语言学习/std宝典/std/borrow.md",
-    "src/编程语言/Rust/语言学习/std宝典/指针/Cow.md",
     "src/编程语言/Rust/语言学习/std宝典/std",
-    "src/编程语言/Rust/语言学习/std宝典/std/cell.md",
-    "src/编程语言/Rust/语言学习/std宝典/std/boxed.md",
-    "src/编程语言/Rust/语言学习/std宝典/Trait/Range.md",
     "src/编程语言/Rust/语言学习/std宝典/Trait/borrow",
-    "src/编程语言/Rust/语言学习/std宝典/Trait/derive",
-    "src/编程语言/Rust/语言学习/std宝典/宏",
     "crates/math/附件/Pasted image 20250604094504.png",
-    "crates/math/src/概率论与数理统计/chaos",
-    "crates/math/src/概率论与数理统计/choas",
-    "crates/math/src/概率论与数理统计/未命名",
-    "crates/math/src/概率论与数理统计/回归分析",
-    "crates/math/src/概率论与数理统计/统计检验",
     "crates/math/self/线性代数/题目/困惑.canvas",
     "crates/math/附件/无标题.jpg",
     "crates/math/附件/屏幕截图_20240519_165229.png",
