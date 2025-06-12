@@ -3,6 +3,7 @@
 
 ### MaybeUninit
 
+### ManuallyDrop
 
 ### drop
 

@@ -25,6 +25,18 @@
 
 ### \#\[inline]
 
+```rust
+// 同时实现 inline 和 非inline 的函数
+fn abc(){
+	inline_abc()
+}
+
+#[inline]
+fn inline_abc(){
+...
+}
+```
+
 ### \#\[cold]
 
 ### \#\[no_builtins]
@@ -37,6 +49,10 @@
 ### \#\[collapse_debuginfo]
 
 
+### \#\[global_allocator]
+
+#### 参考
+[std::alloc - Rust](https://doc.rust-lang.org/std/alloc/index.html#the-global_allocator-attribute)
 
 ## Perf
 

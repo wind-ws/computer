@@ -1713,16 +1713,21 @@
       "src/编程语言/Rust/语言学习/设计/设计模式/mod.md",
       "src/编程语言/Rust/语言学习/设计/设计模式/创建型",
       "src/编程语言/Rust/语言学习/设计/设计模式/结构型",
-      "src/编程语言/Rust/语言学习/设计/设计模式/行为型"
+      "src/编程语言/Rust/语言学习/设计/设计模式/行为型",
+      "src/编程语言/Rust/语言学习/设计/设计模式/继承.md"
     ],
     "src/编程语言/Rust/语言学习/设计/设计模式/创建型": [
       "src/编程语言/Rust/语言学习/设计/设计模式/创建型/建造模式(生成器模式).md"
     ],
     "src/编程语言/Rust/语言学习/设计/设计模式/结构型": [],
     "src/编程语言/Rust/语言学习/设计/设计模式/行为型": [
+      "src/编程语言/Rust/语言学习/设计/设计模式/行为型/访问者模式.md",
+      "src/编程语言/Rust/语言学习/设计/设计模式/行为型/策略模式.md",
       "src/编程语言/Rust/语言学习/设计/设计模式/行为型/命令模式.md"
     ],
     "src/编程语言/Rust/语言学习/设计/choas": [
+      "src/编程语言/Rust/语言学习/设计/choas/Rust API 设计指南.md",
+      "src/编程语言/Rust/语言学习/设计/choas/设计原则.md",
       "src/编程语言/Rust/语言学习/设计/choas/choas.md"
     ],
     "src/编程语言/Rust/语言学习/属性": [
@@ -1761,6 +1766,12 @@
       "src/编程语言/Rust/语言学习/std宝典/指针/Arc & Rc.md"
     ],
     "src/编程语言/Rust/语言学习/std宝典/std": [
+      "src/编程语言/Rust/语言学习/std宝典/std/slice.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/result.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/rc.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/alloc.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/ptr.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/pin.md",
       "src/编程语言/Rust/语言学习/std宝典/std/panic.md",
       "src/编程语言/Rust/语言学习/std宝典/std/ops.md",
       "src/编程语言/Rust/语言学习/std宝典/std/num.md",
