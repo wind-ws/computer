@@ -1735,6 +1735,7 @@
     ],
     "src/编程语言/Rust/语言学习/优化大法": [],
     "src/编程语言/Rust/语言学习/choas": [
+      "src/编程语言/Rust/语言学习/choas/子类型化和变异性.md",
       "src/编程语言/Rust/语言学习/choas/&'static 与 T 'static.md",
       "src/编程语言/Rust/语言学习/choas/不常用语法.md",
       "src/编程语言/Rust/语言学习/choas/泛型.md",
@@ -1766,6 +1767,10 @@
       "src/编程语言/Rust/语言学习/std宝典/指针/Arc & Rc.md"
     ],
     "src/编程语言/Rust/语言学习/std宝典/std": [
+      "src/编程语言/Rust/语言学习/std宝典/std/sync",
+      "src/编程语言/Rust/语言学习/std宝典/std/time.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/thread.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/task.md",
       "src/编程语言/Rust/语言学习/std宝典/std/slice.md",
       "src/编程语言/Rust/语言学习/std宝典/std/result.md",
       "src/编程语言/Rust/语言学习/std宝典/std/rc.md",
@@ -1785,6 +1790,11 @@
       "src/编程语言/Rust/语言学习/std宝典/std/borrow.md",
       "src/编程语言/Rust/语言学习/std宝典/std/cell.md",
       "src/编程语言/Rust/语言学习/std宝典/std/any.md"
+    ],
+    "src/编程语言/Rust/语言学习/std宝典/std/sync": [
+      "src/编程语言/Rust/语言学习/std宝典/std/sync/mod.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/sync/atomic.md",
+      "src/编程语言/Rust/语言学习/std宝典/std/sync/mpsc.md"
     ],
     "src/编程语言/Rust/语言学习/std宝典/Trait": [
       "src/编程语言/Rust/语言学习/std宝典/Trait/Sized and ?Sized.md",
