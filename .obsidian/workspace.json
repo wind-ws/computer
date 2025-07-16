@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9169c953ddfc2a65",
+        "id": "afe14613f8f50cea",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa75ca44eed2ccf",
+            "id": "c3402e9ce8c56125",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/chaos/编程规范文档.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "编程规范文档"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/量化/金融/基础概念/经济指标与概念/国内生产总值(GDP).md",
+                "file": "src/chaos/编程规范文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "国内生产总值(GDP) 的大纲"
+              "title": "编程规范文档 的大纲"
             }
           }
         ],
@@ -152,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +169,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6aa75ca44eed2ccf",
+  "active": "c3402e9ce8c56125",
   "lastOpenFiles": [
+    "src/编程语言/Rust/生态/性能优化.md",
+    "src/量化/多因子策略/Alpha和Beta.md",
+    "src/量化/多因子策略/mod.md",
+    "chaos/认知偏误/赌徒谬误.md",
+    "src/量化/多因子策略",
+    "chaos/认知偏误/mod.md",
+    "src/chaos/优化手册.md",
+    "chaos/认知偏误",
+    "chaos",
+    "src/chaos/编程规范文档.md",
+    "src/编程语言/Rust/语言学习/choas/静态断言.md",
+    "src/编程语言/Rust/语言学习/std宝典/std/thread.md",
+    "笔记规范文档.md",
+    "src/分布式系统/CAP 原理.md",
+    "src/分布式系统/ACID 原则.md",
+    "src/分布式系统/-参考.md",
+    "src/分布式系统/一致性.md",
     "src/编程语言/Rust/语言学习/设计/设计模式/行为型/访问者模式.md",
     "src/编程语言/Rust/语言学习/设计/设计模式/行为型/模板方法模式.md",
     "src/编程语言/Rust/语言学习/设计/设计模式/行为型/状态模式.md",
@@ -180,20 +200,6 @@
     "src/图形学/chaos/透视矩阵.md",
     "src/游戏引擎/ESC架构.md",
     "src/Linux/command/paru.md",
-    "src/Linux/command/nm.md",
-    "src/Linux/choas/mmap.md",
-    "src/Linux/choas/shm.md",
-    "笔记规范文档.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/行为型/观察者模式.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/结构型/代理模式.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/行为型/中介者模式.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/行为型/备忘录模式.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/行为型/迭代器模式.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/结构型/装饰模式.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/结构型/外观模式.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/行为型/责任链模式.md",
-    "src/编程语言/Rust/语言学习/设计/choas/工具化.md",
-    "src/编程语言/Rust/语言学习/设计/设计模式/行为型/命令模式.md",
     "src/编程语言/Rust/语言学习/std宝典/std/sync",
     "src/编程语言/Rust/语言学习/设计/设计模式",
     "src/编程语言/Rust/语言学习/设计/设计模式/行为型",
@@ -201,9 +207,6 @@
     "src/编程语言/Rust/语言学习/设计/设计模式/创建型",
     "src/编程语言/Rust/语言学习/设计/choas",
     "src/编程语言/Rust/语言学习/设计/架构模式",
-    "src/编程语言/Rust/语言学习/设计",
-    "src/编程语言/Rust/语言学习/std宝典/std/error",
-    "src/编程语言/Rust/语言学习/std宝典/std",
     "crates/math/附件/Pasted image 20250604094504.png",
     "crates/math/self/线性代数/题目/困惑.canvas",
     "crates/math/附件/无标题.jpg",

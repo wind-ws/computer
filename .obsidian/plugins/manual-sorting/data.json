@@ -1691,7 +1691,9 @@
       "src/编程语言/Rust/语言学习",
       "src/编程语言/Rust/cargo"
     ],
-    "src/编程语言/Rust/生态": [],
+    "src/编程语言/Rust/生态": [
+      "src/编程语言/Rust/生态/性能优化.md"
+    ],
     "src/编程语言/Rust/语言学习": [
       "src/编程语言/Rust/语言学习/设计",
       "src/编程语言/Rust/语言学习/属性",
@@ -1841,9 +1843,14 @@
       "src/工具箱/choas/Git.md"
     ],
     "src/量化": [
+      "src/量化/多因子策略",
       "src/量化/高频交易",
       "src/量化/金融",
       "src/量化/choas"
+    ],
+    "src/量化/多因子策略": [
+      "src/量化/多因子策略/Alpha和Beta.md",
+      "src/量化/多因子策略/mod.md"
     ],
     "src/量化/高频交易": [
       "src/量化/高频交易/choas.md"
