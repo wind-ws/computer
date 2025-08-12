@@ -1747,6 +1747,7 @@
       "src/编程语言/Rust/语言学习/设计/设计模式/行为型/命令模式.md"
     ],
     "src/编程语言/Rust/语言学习/设计/choas": [
+      "src/编程语言/Rust/语言学习/设计/choas/插件系统.md",
       "src/编程语言/Rust/语言学习/设计/choas/工具化.md",
       "src/编程语言/Rust/语言学习/设计/choas/Rust API 设计指南.md",
       "src/编程语言/Rust/语言学习/设计/choas/设计原则.md",
@@ -1981,6 +1982,7 @@
       "src/游戏引擎/ESC架构.md"
     ],
     "src/chaos": [
+      "src/chaos/技术文章平台集合.md",
       "src/chaos/编程规范文档.md",
       "src/chaos/优化手册.md"
     ],
@@ -1989,6 +1991,9 @@
       "src/Linux/command"
     ],
     "src/Linux/choas": [
+      "src/Linux/choas/eBPF.md",
+      "src/Linux/choas/epoll.md",
+      "src/Linux/choas/io_uring.md",
       "src/Linux/choas/mmap.md",
       "src/Linux/choas/shm.md"
     ],
