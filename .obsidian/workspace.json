@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c0d3da28ac2de7",
+        "id": "04a842e8959e2d46",
         "type": "tabs",
         "children": [
           {
-            "id": "ed917362490895a6",
+            "id": "59d29143ede156a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/异象.md",
+                "file": "src/性能优化手册/mod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "异象"
-            }
-          },
-          {
-            "id": "1817339eaa0bd4e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/因子分类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "因子分类"
-            }
-          },
-          {
-            "id": "e185e293a7e88c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/套利定价理论(APT).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "套利定价理论(APT)"
-            }
-          },
-          {
-            "id": "432576c4b1650d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/资产收益率(ROA).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "资产收益率(ROA)"
-            }
-          },
-          {
-            "id": "e6fb939afa4cc600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/排序法及其检验.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "排序法及其检验"
-            }
-          },
-          {
-            "id": "15a7df8192ebfb66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/一价定律.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一价定律"
-            }
-          },
-          {
-            "id": "75ea31c841511ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/Alpha和Beta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alpha和Beta"
+              "title": "mod"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/量化/从零开始的量化异世界生活/基础概念/排序法及其检验.md",
+                "file": "src/性能优化手册/mod.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "排序法及其检验 的大纲"
+              "title": "mod 的大纲"
             }
           }
         ],
@@ -255,18 +170,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6fb939afa4cc600",
+  "active": "59d29143ede156a9",
   "lastOpenFiles": [
+    "src/性能优化手册/汇编系列/NASM 汇编器(linux,x86).md",
+    "src/性能优化手册/汇编系列/YASM 汇编器(linux,x86).md",
+    "src/性能优化手册/chaos/CPU cache 优化.md",
+    "src/性能优化手册/mod.md",
+    "src/性能优化手册/chaos",
+    "src/性能优化手册/汇编系列",
+    "src/性能优化手册",
+    "src/量化/从零开始的量化异世界生活/基础概念/Alpha和Beta.md",
+    "src/量化/从零开始的量化异世界生活/基础概念/一价定律.md",
+    "src/量化/从零开始的量化异世界生活/基础概念/回归检验.md",
+    "src/chaos/编程规范文档.md",
+    "src/量化/从零开始的量化异世界生活/基础概念/排序法及其检验.md",
     "crates/math/src/概率论与数理统计/随机变量的数字特征/秩相关系数.md",
     "crates/math/src/概率论与数理统计/随机变量的数字特征/未命名.md",
     "src/量化/从零开始的量化异世界生活/基础概念/投资组合.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/排序法及其检验.md",
     "src/量化/从零开始的量化异世界生活/基础概念/套利定价理论(APT).md",
     "src/量化/从零开始的量化异世界生活/基础概念/资产收益率(ROA).md",
     "src/量化/从零开始的量化异世界生活/基础概念/因子分类.md",
     "src/量化/从零开始的量化异世界生活/基础概念/异象.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/Alpha和Beta.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/一价定律.md",
     "src/量化/从零开始的量化异世界生活/基础概念/mod.md",
     "src/量化/从零开始的量化异世界生活/基础概念/复权.md",
     "src/量化/从零开始的量化异世界生活/基础概念/因子择时.md",
@@ -274,15 +198,9 @@
     "src/量化/从零开始的量化异世界生活/基础概念/广义矩估计(GMM).md",
     "src/量化/从零开始的量化异世界生活/基础概念/基于消费的资本资产定价模型(CCAPM).md",
     "src/量化/从零开始的量化异世界生活/基础概念/三因子模型.md",
-    "src/chaos/编程规范文档.md",
     "src/量化/从零开始的量化异世界生活/基础概念/风险溢价.md",
     "src/量化/从零开始的量化异世界生活/基础概念/资产定价模型(CAPM).md",
     "src/量化/从零开始的量化异世界生活/基础概念/有效市场假说(EMH).md",
-    "src/量化/从零开始的量化异世界生活/入门学习资源.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/风险价值(VaR).md",
-    "src/量化/从零开始的量化异世界生活/基础概念/无风险利率.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/不可分散风险(系统性风险).md",
-    "crates/math/src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
     "src/量化/从零开始的量化异世界生活/基础概念",
     "src/量化/从零开始的量化异世界生活",
     "chaos",
@@ -290,9 +208,6 @@
     "chaos/认知偏误",
     "chaos",
     "src/编程语言/Rust/语言学习/std宝典/std/sync",
-    "src/编程语言/Rust/语言学习/设计/设计模式",
-    "src/编程语言/Rust/语言学习/设计/设计模式/行为型",
-    "src/编程语言/Rust/语言学习/设计/设计模式/结构型",
     "crates/math/附件/Pasted image 20250604094504.png",
     "crates/math/self/线性代数/题目/困惑.canvas",
     "crates/math/附件/无标题.jpg",
