@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: 表格
+  - type: cards
+    name: 视图
+    order:
+      - file.name
+    imageFit: ""
+    imageAspectRatio: 1.25

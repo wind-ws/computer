@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.path.startsWith("src/性能优化手册/汇编系列/nasm/指令集/")
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+  - type: table
+    name: 视图
+    rowHeight: tall
+  - type: table
+    name: 视图 2
+    rowHeight: extra
+  - type: cards
+    name: 视图 3
+    imageFit: contain

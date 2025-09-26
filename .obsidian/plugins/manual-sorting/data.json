@@ -2027,14 +2027,32 @@
       "src/性能优化手册/chaos"
     ],
     "src/性能优化手册/汇编系列": [
-      "src/性能优化手册/汇编系列/YASM 汇编器(linux,x86).md",
-      "src/性能优化手册/汇编系列/NASM 汇编器(linux,x86).md"
+      "src/性能优化手册/汇编系列/nasm",
+      "src/性能优化手册/汇编系列/YASM 汇编器(linux,x86).md"
+    ],
+    "src/性能优化手册/汇编系列/nasm": [
+      "src/性能优化手册/汇编系列/nasm/指令集.md",
+      "src/性能优化手册/汇编系列/nasm/寄存器集.md",
+      "src/性能优化手册/汇编系列/nasm/NASM 汇编器(linux,x86).md"
     ],
     "src/性能优化手册/chaos": [
+      "src/性能优化手册/chaos/intel 优化手册.md",
       "src/性能优化手册/chaos/CPU cache 优化.md"
     ],
     "src/游戏引擎": [
+      "src/游戏引擎/render",
       "src/游戏引擎/ESC架构.md"
+    ],
+    "src/游戏引擎/render": [
+      "src/游戏引擎/render/基础概念",
+      "src/游戏引擎/render/各种缓存器(buffer).md",
+      "src/游戏引擎/render/渲染管线.md"
+    ],
+    "src/游戏引擎/render/基础概念": [
+      "src/游戏引擎/render/基础概念/像素(pixel).md",
+      "src/游戏引擎/render/基础概念/片元(fragment).md",
+      "src/游戏引擎/render/基础概念/图元(primitive).md",
+      "src/游戏引擎/render/基础概念/顶点(vertex).md"
     ],
     "src/chaos": [
       "src/chaos/技术文章平台集合.md",
