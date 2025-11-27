@@ -1669,6 +1669,7 @@
       "src/密码学",
       "src/嵌入式",
       "src/区块链",
+      "src/计算机网络",
       "src/数据结构",
       "src/图形学",
       "src/游戏引擎",
@@ -1684,6 +1685,7 @@
       "src/编程语言/C++/choas"
     ],
     "src/编程语言/C++/choas": [
+      "src/编程语言/C++/choas/C++中一些很绕的部分.md",
       "src/编程语言/C++/choas/学习资源.md",
       "src/编程语言/C++/choas/引用.md"
     ],
@@ -1845,6 +1847,15 @@
     "src/工具箱/choas": [
       "src/工具箱/choas/Git.md"
     ],
+    "src/计算机网络": [
+      "src/计算机网络/网络协议"
+    ],
+    "src/计算机网络/网络协议": [
+      "src/计算机网络/网络协议/应用层"
+    ],
+    "src/计算机网络/网络协议/应用层": [
+      "src/计算机网络/网络协议/应用层/HTTP.md"
+    ],
     "src/量化": [
       "src/量化/从零开始的量化异世界生活",
       "src/量化/多因子策略",
@@ -1900,6 +1911,8 @@
       "src/量化/高频交易/choas.md"
     ],
     "src/量化/金融": [
+      "src/量化/金融/期权",
+      "src/量化/金融/ETF",
       "src/量化/金融/术语.md",
       "src/量化/金融/基础概念"
     ],
@@ -1974,6 +1987,12 @@
       "src/量化/金融/基础概念/投资理论/被动投资.md",
       "src/量化/金融/基础概念/投资理论/价值投资.md"
     ],
+    "src/量化/金融/期权": [
+      "src/量化/金融/期权/领口策略.md",
+      "src/量化/金融/期权/保险策略.md",
+      "src/量化/金融/期权/期权.md"
+    ],
+    "src/量化/金融/ETF": [],
     "src/量化/choas": [
       "src/量化/choas/截面&时序.md",
       "src/量化/choas/股票涨跌二分类模型.md",
@@ -2022,7 +2041,10 @@
       "src/图形学/chaos/z-buffer.md"
     ],
     "src/性能优化手册": [
+      "src/性能优化手册/性能测量.md",
+      "src/性能优化手册/CPU",
       "src/性能优化手册/mod.md",
+      "src/性能优化手册/优化手册.md",
       "src/性能优化手册/汇编系列",
       "src/性能优化手册/chaos"
     ],
@@ -2035,11 +2057,17 @@
       "src/性能优化手册/汇编系列/nasm/寄存器集.md",
       "src/性能优化手册/汇编系列/nasm/NASM 汇编器(linux,x86).md"
     ],
-    "src/性能优化手册/chaos": [
-      "src/性能优化手册/chaos/intel 优化手册.md",
-      "src/性能优化手册/chaos/CPU cache 优化.md"
+    "src/性能优化手册/chaos": [],
+    "src/性能优化手册/CPU": [
+      "src/性能优化手册/CPU/SIMD.md",
+      "src/性能优化手册/CPU/分支预测.md",
+      "src/性能优化手册/CPU/流水线技术.md",
+      "src/性能优化手册/CPU/CPU cache 优化.md",
+      "src/性能优化手册/CPU/intel 优化手册.md",
+      "src/性能优化手册/CPU/NUMA(非统一内存访问架构).md"
     ],
     "src/游戏引擎": [
+      "src/游戏引擎/chaos.md",
       "src/游戏引擎/render",
       "src/游戏引擎/ESC架构.md"
     ],
@@ -2055,11 +2083,12 @@
       "src/游戏引擎/render/基础概念/顶点(vertex).md"
     ],
     "src/chaos": [
-      "src/chaos/技术文章平台集合.md",
-      "src/chaos/编程规范文档.md",
-      "src/chaos/优化手册.md"
+      "src/chaos/步进.md",
+      "src/chaos/技术文章平台书籍集合.md",
+      "src/chaos/编程规范文档.md"
     ],
     "src/Linux": [
+      "src/Linux/Linux 基本概念",
       "src/Linux/choas",
       "src/Linux/command"
     ],
@@ -2076,6 +2105,14 @@
       "src/Linux/command/nm.md",
       "src/Linux/command/paru.md",
       "src/Linux/command/ssh.md"
+    ],
+    "src/Linux/Linux 基本概念": [
+      "src/Linux/Linux 基本概念/进程.md",
+      "src/Linux/Linux 基本概念/文件系统.md",
+      "src/Linux/Linux 基本概念/用户和组.md",
+      "src/Linux/Linux 基本概念/shell.md",
+      "src/Linux/Linux 基本概念/内核态和用户态.md",
+      "src/Linux/Linux 基本概念/内核的职责.md"
     ]
   },
   "draggingEnabled": true,

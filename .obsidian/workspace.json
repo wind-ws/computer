@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "04a842e8959e2d46",
+        "id": "4d0d08f7ca4e1ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "59d29143ede156a9",
+            "id": "cfc60e24b942076d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/性能优化手册/汇编系列/nasm/NASM 汇编器(linux,x86).md",
+                "file": "src/量化/金融/期权/领口策略.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NASM 汇编器(linux,x86)"
-            }
-          },
-          {
-            "id": "0d5a19471da72e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/性能优化手册/汇编系列/nasm/指令集.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "指令集"
-            }
-          },
-          {
-            "id": "e71bf1f4ffa6466f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/性能优化手册/chaos/CPU cache 优化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU cache 优化"
-            }
-          },
-          {
-            "id": "ded6abeb11e0c539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/游戏引擎/render/基础概念/片元(fragment).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "片元(fragment)"
+              "title": "领口策略"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/游戏引擎/render/基础概念/片元(fragment).md",
+                "file": "src/量化/金融/期权/领口策略.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "片元(fragment) 的大纲"
+              "title": "领口策略 的大纲"
             }
           }
         ],
@@ -213,44 +170,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebf20c7748bbf828",
+  "active": "cfc60e24b942076d",
   "lastOpenFiles": [
-    "src/游戏引擎/render/渲染管线.md",
-    "src/游戏引擎/render/基础概念/片元(fragment).md",
-    "src/游戏引擎/render/基础概念/像素(pixel).md",
-    "src/游戏引擎/render/基础概念/图元(primitive).md",
-    "src/游戏引擎/render/基础概念/顶点(vertex).md",
-    "src/游戏引擎/render/各种缓存器(buffer).md",
-    "src/游戏引擎/render/基础概念",
-    "src/chaos/编程规范文档.md",
-    "src/游戏引擎/render",
-    "src/性能优化手册/chaos/CPU cache 优化.md",
-    "src/性能优化手册/chaos/intel 优化手册.md",
-    "src/性能优化手册/汇编系列/nasm/NASM 汇编器(linux,x86).md",
-    "src/性能优化手册/汇编系列/nasm/寄存器集.md",
-    "src/性能优化手册/汇编系列/nasm/指令集.md",
-    "src/性能优化手册/汇编系列/nasm/指令集/mov.md",
-    "src/性能优化手册/汇编系列/nasm/指令集.base",
-    "src/性能优化手册/汇编系列/nasm/指令集",
-    "Untitled.md",
+    "src/量化/金融/期权/保险策略.md",
+    "src/量化/金融/期权/领口策略.md",
+    "src/量化/金融/期权/期权.md",
+    "src/量化/金融/期权",
+    "src/量化/金融/ETF",
+    "src/性能优化手册/CPU/SIMD.md",
+    "src/性能优化手册/CPU/分支预测.md",
+    "src/性能优化手册/CPU/流水线技术.md",
+    "src/性能优化手册/性能测量.md",
+    "src/性能优化手册/CPU/CPU cache 优化.md",
+    "src/性能优化手册/CPU/intel 优化手册.md",
+    "src/性能优化手册/CPU/NUMA(非统一内存访问架构).md",
+    "src/性能优化手册/CPU",
+    "src/量化/多因子策略/mod.md",
+    "src/量化/choas/截面&时序.md",
     "src/性能优化手册/mod.md",
-    "src/性能优化手册/汇编系列/nasm",
-    "src/性能优化手册/汇编系列/YASM 汇编器(linux,x86).md",
-    "src/性能优化手册/chaos",
-    "src/性能优化手册/汇编系列",
-    "src/性能优化手册",
-    "src/量化/从零开始的量化异世界生活/基础概念/Alpha和Beta.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/一价定律.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/回归检验.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/排序法及其检验.md",
-    "crates/math/src/概率论与数理统计/随机变量的数字特征/秩相关系数.md",
-    "crates/math/src/概率论与数理统计/随机变量的数字特征/未命名.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/投资组合.md",
-    "src/量化/从零开始的量化异世界生活/基础概念/套利定价理论(APT).md",
-    "src/量化/从零开始的量化异世界生活/基础概念/资产收益率(ROA).md",
-    "src/量化/从零开始的量化异世界生活/基础概念/因子分类.md",
-    "src/量化/从零开始的量化异世界生活/基础概念",
-    "src/量化/从零开始的量化异世界生活",
+    "src/性能优化手册/优化手册.md",
+    "src/编程语言/Rust/语言学习/choas/静态分发与动态分发.md",
+    "src/编程语言/Rust/生态/性能优化.md",
+    "src/编程语言/Rust/语言学习/属性/choas.md",
+    "src/编程语言/Rust/语言学习/feature/choas.md",
+    "src/编程语言/Rust/语言学习/std宝典/指针 table.md",
+    "src/编程语言/Rust/语言学习/choas/内存布局.md",
+    "src/编程语言/Rust/语言学习/choas/trait.md",
+    "src/编程语言/C++/choas/学习资源.md",
+    "src/编程语言/C++/choas/C++中一些很绕的部分.md",
+    "src/编程语言/C++/choas/引用.md",
+    "src/chaos/编程规范文档.md",
+    "src/chaos/步进.md",
+    "src/Linux/Linux 基本概念",
+    "src/计算机网络/网络协议",
+    "src/计算机网络/网络协议/应用层",
+    "src/计算机网络",
+    "src/游戏引擎/render/基础概念",
+    "src/游戏引擎/render",
+    "src/性能优化手册/汇编系列/nasm/指令集.base",
     "crates/math/附件/Pasted image 20250604094504.png",
     "crates/math/self/线性代数/题目/困惑.canvas",
     "crates/math/附件/无标题.jpg",
