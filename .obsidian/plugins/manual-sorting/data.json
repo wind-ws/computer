@@ -1992,7 +1992,9 @@
       "src/量化/金融/期权/保险策略.md",
       "src/量化/金融/期权/期权.md"
     ],
-    "src/量化/金融/ETF": [],
+    "src/量化/金融/ETF": [
+      "src/量化/金融/ETF/ETF.md"
+    ],
     "src/量化/choas": [
       "src/量化/choas/截面&时序.md",
       "src/量化/choas/股票涨跌二分类模型.md",
