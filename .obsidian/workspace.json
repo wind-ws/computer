@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/量化/金融/ETF/ETF.md",
+                "file": "src/量化/金融/期权/期权.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ETF"
+              "title": "期权"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/量化/金融/ETF/ETF.md",
+                "file": "src/量化/金融/期权/期权.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ETF 的大纲"
+              "title": "期权 的大纲"
             }
           }
         ],
@@ -172,9 +172,16 @@
   },
   "active": "cfc60e24b942076d",
   "lastOpenFiles": [
-    "src/量化/金融/期权/领口策略.md",
-    "src/量化/金融/ETF/ETF.md",
     "src/量化/金融/期权/保险策略.md",
+    "src/量化/金融/ETF/ETF事件套利策略.md",
+    "src/量化/金融/ETF/ETF瞬时套利策略.md",
+    "src/量化/金融/ETF/ETF.md",
+    "src/量化/金融/期权/蝶式差价策略.md",
+    "src/量化/金融/期权/牛市熊市价差策略.md",
+    "src/量化/金融/期权/勒式和跨式策略.md",
+    "src/量化/金融/期权/合成股票策略.md",
+    "src/量化/金融/期权/备兑策略.md",
+    "src/量化/金融/期权/领口策略.md",
     "src/量化/金融/期权/期权.md",
     "src/量化/金融/期权",
     "src/量化/金融/ETF",
@@ -194,13 +201,6 @@
     "src/编程语言/Rust/生态/性能优化.md",
     "src/编程语言/Rust/语言学习/属性/choas.md",
     "src/编程语言/Rust/语言学习/feature/choas.md",
-    "src/编程语言/Rust/语言学习/std宝典/指针 table.md",
-    "src/编程语言/Rust/语言学习/choas/内存布局.md",
-    "src/编程语言/Rust/语言学习/choas/trait.md",
-    "src/编程语言/C++/choas/学习资源.md",
-    "src/编程语言/C++/choas/C++中一些很绕的部分.md",
-    "src/编程语言/C++/choas/引用.md",
-    "src/chaos/编程规范文档.md",
     "src/Linux/Linux 基本概念",
     "src/计算机网络/网络协议",
     "src/计算机网络/网络协议/应用层",
