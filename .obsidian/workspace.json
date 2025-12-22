@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0d08f7ca4e1ee2",
+        "id": "f7efb8a9e86f1281",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc60e24b942076d",
+            "id": "2299d4dbdb766f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/量化/金融/基础概念/多头空头.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多头空头"
+            }
+          },
+          {
+            "id": "d92dd6d1f13440fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "期权"
             }
+          },
+          {
+            "id": "4834b2eef97bbcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/chaos/编程规范文档.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "编程规范文档"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/量化/金融/期权/期权.md",
+                "file": "src/chaos/编程规范文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期权 的大纲"
+              "title": "编程规范文档 的大纲"
             }
           }
         ],
@@ -170,44 +199,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfc60e24b942076d",
+  "active": "4834b2eef97bbcae",
   "lastOpenFiles": [
-    "src/量化/金融/期权/保险策略.md",
+    "src/量化/金融/期权/期权.md",
+    "src/量化/金融/基础概念/多头空头.md",
+    "src/chaos/编程规范文档.md",
+    "src/量化/金融/期货/期货.md",
+    "src/量化/金融/期货/未命名.md",
+    "src/量化/金融/期货",
+    "src/量化/金融/基础概念/金融工具/期权.md",
+    "src/性能优化手册/性能分析/CPI 和 IPC.md",
+    "src/性能优化手册/性能分析/CPU利用率.md",
+    "src/性能优化手册/性能分析/已退役&已执行 指令.md",
+    "src/性能优化手册/性能分析/性能测量.md",
+    "src/性能优化手册/CPU/虚拟内存.md",
+    "src/性能优化手册/性能分析",
+    "src/性能优化手册/CPU/CPU cache 优化.md",
+    "src/性能优化手册/CPU/NUMA(非统一内存访问架构).md",
+    "src/量化/金融/期权/合成股票策略.md",
+    "src/量化/金融/ETF/ETF.md",
     "src/量化/金融/ETF/ETF事件套利策略.md",
     "src/量化/金融/ETF/ETF瞬时套利策略.md",
-    "src/量化/金融/ETF/ETF.md",
     "src/量化/金融/期权/蝶式差价策略.md",
     "src/量化/金融/期权/牛市熊市价差策略.md",
     "src/量化/金融/期权/勒式和跨式策略.md",
-    "src/量化/金融/期权/合成股票策略.md",
+    "src/量化/金融/期权/保险策略.md",
     "src/量化/金融/期权/备兑策略.md",
     "src/量化/金融/期权/领口策略.md",
-    "src/量化/金融/期权/期权.md",
     "src/量化/金融/期权",
     "src/量化/金融/ETF",
     "src/性能优化手册/CPU/SIMD.md",
     "src/性能优化手册/CPU/分支预测.md",
     "src/性能优化手册/CPU/流水线技术.md",
-    "src/性能优化手册/性能测量.md",
-    "src/性能优化手册/CPU/CPU cache 优化.md",
-    "src/性能优化手册/CPU/intel 优化手册.md",
-    "src/性能优化手册/CPU/NUMA(非统一内存访问架构).md",
     "src/性能优化手册/CPU",
-    "src/量化/多因子策略/mod.md",
-    "src/量化/choas/截面&时序.md",
-    "src/性能优化手册/mod.md",
-    "src/性能优化手册/优化手册.md",
-    "src/编程语言/Rust/语言学习/choas/静态分发与动态分发.md",
-    "src/编程语言/Rust/生态/性能优化.md",
-    "src/编程语言/Rust/语言学习/属性/choas.md",
-    "src/编程语言/Rust/语言学习/feature/choas.md",
     "src/Linux/Linux 基本概念",
     "src/计算机网络/网络协议",
     "src/计算机网络/网络协议/应用层",
     "src/计算机网络",
     "src/游戏引擎/render/基础概念",
-    "src/游戏引擎/render",
-    "src/性能优化手册/汇编系列/nasm/指令集.base",
     "crates/math/附件/Pasted image 20250604094504.png",
     "crates/math/self/线性代数/题目/困惑.canvas",
     "crates/math/附件/无标题.jpg",
