@@ -1663,6 +1663,7 @@
       "src/性能优化手册",
       "src/编程语言",
       "src/工具箱",
+      "src/人工智能",
       "src/编译原理",
       "src/分布式系统",
       "src/量化",
@@ -2041,6 +2042,22 @@
       "src/区块链/Solana/-chaos.md",
       "src/区块链/Solana/PDA.md"
     ],
+    "src/人工智能": [
+      "src/人工智能/book.md",
+      "src/人工智能/符号声明.md",
+      "src/人工智能/chaos"
+    ],
+    "src/人工智能/chaos": [
+      "src/人工智能/chaos/激活函数.md",
+      "src/人工智能/chaos/反向传播算法.md",
+      "src/人工智能/chaos/深度神经网络.md",
+      "src/人工智能/chaos/支持向量机.md",
+      "src/人工智能/chaos/在线学习.md",
+      "src/人工智能/chaos/梯度下降.md",
+      "src/人工智能/chaos/代价函数.md",
+      "src/人工智能/chaos/sigmoid神经元.md",
+      "src/人工智能/chaos/感知机.md"
+    ],
     "src/数据结构": [],
     "src/图形学": [
       "src/图形学/chaos"
@@ -2071,6 +2088,13 @@
       "src/性能优化手册/汇编系列/nasm/NASM 汇编器(linux,x86).md"
     ],
     "src/性能优化手册/性能分析": [
+      "src/性能优化手册/性能分析/内存延迟和带宽.md",
+      "src/性能优化手册/性能分析/性能指标.md",
+      "src/性能优化手册/性能分析/错误预测的分支.md",
+      "src/性能优化手册/性能分析/缓存失效.md",
+      "src/性能优化手册/性能分析/核心周期与参考周期.md",
+      "src/性能优化手册/性能分析/管道槽 (pipeline slot).md",
+      "src/性能优化手册/性能分析/微操作.md",
       "src/性能优化手册/性能分析/CPI 和 IPC.md",
       "src/性能优化手册/性能分析/CPU利用率.md",
       "src/性能优化手册/性能分析/已退役&已执行 指令.md",
@@ -2078,6 +2102,7 @@
     ],
     "src/性能优化手册/chaos": [],
     "src/性能优化手册/CPU": [
+      "src/性能优化手册/CPU/MESI.md",
       "src/性能优化手册/CPU/虚拟内存.md",
       "src/性能优化手册/CPU/SIMD.md",
       "src/性能优化手册/CPU/分支预测.md",
