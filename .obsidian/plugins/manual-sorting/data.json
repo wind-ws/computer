@@ -2138,6 +2138,7 @@
       "src/Linux/command"
     ],
     "src/Linux/choas": [
+      "src/Linux/choas/set-user-ID 机制.md",
       "src/Linux/choas/eBPF.md",
       "src/Linux/choas/epoll.md",
       "src/Linux/choas/io_uring.md",
